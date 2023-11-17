@@ -5842,7 +5842,7 @@
 		"stage": "sanicStage",
 		"validScore": true,
 		"bpm": 180,
-		"speed": 4.5,
+		"speed": 3.5,
 		"noteStyle": null
 	}
 }
